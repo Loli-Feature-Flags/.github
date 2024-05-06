@@ -1,4 +1,4 @@
-![Banner saying: build your own feature flag infrastructure](assets/banner.jpg)
+![Banner saying: build your own feature flag infrastructure](./assets/banner.jpg)
 
 <h1 align="center">Loli Feature Flags</h1>
 
