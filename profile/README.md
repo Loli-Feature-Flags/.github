@@ -1,8 +1,16 @@
 ![Banner saying: build your own feature flag infrastructure](/profile/assets/banner.jpg)
 
-<h1 align="center">Loli Feature Flags</h1>
+# 📖 Table of contents
 
-___
+<!-- TOC -->
+* [📖 Table of contents](#-table-of-contents)
+* [⭐️ The vision](#-the-vision)
+* [🤩 Say hello to](#-say-hello-to)
+* [👋 Say goodbye to](#-say-goodbye-to)
+* [🏗️ Projects](#-projects)
+* [🗺️ Roadmap](#-roadmap)
+* [🙆‍♂️ Author](#-author)
+<!-- TOC -->
 
 # ⭐️ The vision
 
