@@ -1,14 +1,29 @@
 ![Banner saying: build your own feature flag infrastructure](/profile/assets/banner.jpg)
 
+# 👉 What is it all about?
+
+➡️ **Let's revolutionize the way we work with feature flags.**
+
+Key aspects:
+
+- 👨‍👩‍👧 Accessible for everyone for any budget!
+- ✅ Availability first. Never worry about third party service outages!
+- 🛡️ Own your data, control the data flow! Bye, bye, PII concerns!
+- 💎 Intuitive UI. Usable by everyone.
+- 🧩 Fits in your stack. Pluggable UI and storage agnostic.
+- 👉 It's your choice: The toolkit that doesn't care how you would like to do things!
+
 # 📖 Table of contents
 
 <!-- TOC -->
+* [👉 What is it all about?](#-what-is-it-all-about)
 * [📖 Table of contents](#-table-of-contents)
 * [⭐️ The vision](#-the-vision)
 * [🤩 Say hello to](#-say-hello-to)
 * [👋 Say goodbye to](#-say-goodbye-to)
 * [🏗️ Projects](#-projects)
 * [🗺️ Roadmap](#-roadmap)
+* [🔭 Future ideas](#-future-ideas)
 * [🙆‍♂️ Author](#-author)
 <!-- TOC -->
 
@@ -40,31 +55,37 @@ infrastructure/tech stack. To build your own. With low costs. And low effort.
 
 # 🗺️ Roadmap
 
-| Milestone     | Project                                                            | Status                   | Description                                                                                                                                                                      |
-|---------------|--------------------------------------------------------------------|--------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|               | JS/TS SDK                                                          | Building 🟡              | A library that defines the Loli Spec schema, validates it, and can evaluate feature flags.                                                                                       |
-|               | Management UI                                                      | Building 🟡              | A pluggable management UI that makes it easy to manage the Loli Spec and can be integrated into any website/web-app.                                                             |
-| "DIY Release" |                                                                    | Working on it 🟡         | A state where Loli can be used in a JS/TS environment using your own storage for the Loli Spec. Requires tech expertise.                                                         |
-|               | OpenFeature JS/TS Adapter                                          | Planned 📝               |                                                                                                                                                                                  |
-|               | Extensive documentation for developers                             | Planned 📝               |                                                                                                                                                                                  |
-|               | Extensive documentation for non-techies                            | Planned 📝               |                                                                                                                                                                                  |
-|               | Tutorial videos for developers                                     | Planned 📝               |                                                                                                                                                                                  |
-|               | Tutorial videos for non-techies                                    | Planned 📝               |                                                                                                                                                                                  |
-|               | Website                                                            | Planned 📝               |                                                                                                                                                                                  |
-|               | Community support (e.g. Discord Server)                            | Planned 📝               |                                                                                                                                                                                  |
-| Version 1     |                                                                    | Waiting for it 📝        | A state where Loli offers a complete ecosystem, extensive documentation, community support, and more.                                                                            |
-|               | Loli UI as a Service – but cheap                                   | High probability         | Loli UI as a service. Invite colleagues. But still – own the storage by using integrations (such as Vercel Edge Config, REST, Redis, ...). Something like 2$/per spec/per month. |
-|               | JSON schema based validation                                       | Medium probability       |                                                                                                                                                                                  |
-|               | SDKs for other languages (Java, Go, Rust, C#, ...)                 | Medium probability       |                                                                                                                                                                                  |
-|               | OpenFeature adapters for other languages (Java, Go, Rust, C#, ...) | Medium probability       |                                                                                                                                                                                  |
-| Future        |                                                                    | Looking forward to it 🤩 |                                                                                                                                                                                  |
+| Milestone     | Project                                 | Status           | Description                                                                                                              |
+|---------------|-----------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------|
+|               | JS/TS SDK                               | Building 🟡      | A library that defines the Loli Spec schema, validates it, and can evaluate feature flags.                               |
+|               | Management UI                           | Building 🟡      | A pluggable management UI that makes it easy to manage the Loli Spec and can be integrated into any website/web-app.     |
+| Alpha version |                                         | Working on it 🟡 | A state where Loli can be used in a JS/TS environment using your own storage for the Loli Spec. Requires tech expertise. |
+|               | Extensive documentation for developers  | Planned 📝       |                                                                                                                          |
+|               | Extensive documentation for non-techies | Planned 📝       |                                                                                                                          |
+|               | Tutorial videos for developers          | Planned 📝       |                                                                                                                          |
+|               | Tutorial videos for non-techies         | Planned 📝       |                                                                                                                          |
+| Beta version  |                                         | Planned 📝       | A state where Loli comes with docs and tutorial videos.                                                                  |
+|               | OpenFeature JS/TS Adapter               | Planned 📝       |                                                                                                                          |
+|               | Automated testing for management UI     | Planned 📝       |                                                                                                                          |
+|               | Website                                 | Planned 📝       |                                                                                                                          |
+|               | Community support (e.g. Discord Server) | Planned 📝       |                                                                                                                          |
+| Version 1     |                                         | Planned 📝       | A state where Loli looks like a real project, has full test coverage, and offers an OpenFeature adapter.                 |
+
+# 🔭 Future ideas
+
+| Milestone | Project                                                                                | Probability | Description                                                                                                                                                                                                       |
+|-----------|----------------------------------------------------------------------------------------|-------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|           | Loli Service                                                                           | high        | Loli UI as a service. Manage users with different rights. Audit logs. But still – own the storage by using integrations/adapters (such as Vercel Edge Config, REST, Redis, ...). Self hosted and/or as-a-service. |
+|           | JSON schema based validation                                                           | low         |                                                                                                                                                                                                                   |
+|           | SDKs for other languages (Java, Go, Rust, C#, ...)                                     | low         |                                                                                                                                                                                                                   |
+|           | Loli server/docker image + simplified SDKs for other languages speaking to Loli Server | medium      | Keep the JS/TS SDK as the single source of truth regarding evaluation, but offer a bundled Loli server and client SDKs for other languages.                                                                       |
+|           | OpenFeature adapters for other languages (Java, Go, Rust, C#, ...)                     | medium      | Possible OpenFeature adapters for the server <> client scenario (one row above).                                                                                                                                  |
 
 # 🙆‍♂️ Author
 
 Hey, I am Peter Kuhmann! 👋
 
-I am a software engineer and want to revolutionize the way
-we handle feature flags. I want to make feature flag tooling available to everyone!
+My social profiles:
 
 - [GitHub Profile 🔗](https://github.com/peter-kuhmann/)
 - [X / Twitter 🔗](https://twitter.com/squirrel_pierre)
