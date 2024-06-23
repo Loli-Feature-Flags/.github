@@ -10,7 +10,7 @@ Key aspects:
 - ✅ Availability first. Never worry about third party service outages!
 - 🛡️ Own your data, control the data flow! Bye, bye, PII concerns!
 - 💎 Intuitive UI. Usable by everyone.
-- 🧩 Fits in your stack. Pluggable UI and storage agnostic.
+- 🧩 Fits in your stack. Storage agnostic. Pluggable UI.
 - 👉 It's your choice: The toolkit that doesn't care how you would like to do things!
 
 # 📖 Table of contents
@@ -18,14 +18,19 @@ Key aspects:
 <!-- TOC -->
 * [👉 What is it all about?](#-what-is-it-all-about)
 * [📖 Table of contents](#-table-of-contents)
+* [📂️ Repositories](#-repositories)
 * [⭐️ The vision](#-the-vision)
 * [🤩 Say hello to](#-say-hello-to)
 * [👋 Say goodbye to](#-say-goodbye-to)
-* [🏗️ Projects](#-projects)
 * [🗺️ Roadmap](#-roadmap)
 * [🔭 Future ideas](#-future-ideas)
 * [🙆‍♂️ Author](#-author)
 <!-- TOC -->
+
+# 📂️ Repositories
+
+- [JavaScript/TypeScript SDK 🔗](https://github.com/Loli-Feature-Flags/loli-sdk)
+- [Pluggable Management UI 🔗](https://github.com/Loli-Feature-Flags/loli-ui)
 
 # ⭐️ The vision
 
@@ -47,11 +52,6 @@ infrastructure/tech stack. To build your own. With low costs. And low effort.
 - ⏳ High latency due to calls to third parties.
 - 🖥️ Unintuitive management UIs.
 - 🚨 Third party service outages.
-
-# 🏗️ Projects
-
-- [JavaScript/TypeScript SDK 🔗](https://github.com/Loli-Feature-Flags/loli-sdk-js)
-- [Pluggable Management UI 🔗](https://github.com/Loli-Feature-Flags/loli-ui)
 
 # 🗺️ Roadmap
 
