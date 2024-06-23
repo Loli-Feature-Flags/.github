@@ -18,6 +18,8 @@ Key aspects:
 <!-- TOC -->
 * [👉 What is it all about?](#-what-is-it-all-about)
 * [📖 Table of contents](#-table-of-contents)
+* [🌐 Website](#-website)
+* [👾 Discord](#-discord)
 * [📂️ Repositories](#-repositories)
 * [⭐️ The vision](#-the-vision)
 * [🤩 Say hello to](#-say-hello-to)
@@ -26,6 +28,14 @@ Key aspects:
 * [🔭 Future ideas](#-future-ideas)
 * [🙆‍♂️ Author](#-author)
 <!-- TOC -->
+
+# 🌐 Website
+
+Visit: [https://www.lolifeatureflags.com/](https://www.lolifeatureflags.com/)
+
+# 👾 Discord
+
+Feel free to join the Discord server: [https://discord.gg/njRQHRNu](https://discord.gg/njRQHRNu)
 
 # 📂️ Repositories
 
@@ -81,10 +91,6 @@ infrastructure/tech stack. To build your own. With low costs. And low effort.
 |           | SDKs for other languages (Java, Go, Rust, C#, ...)                                     | low         |                                                                                                                                                                                                                   |
 |           | Loli server/docker image + simplified SDKs for other languages speaking to Loli Server | medium      | Keep the JS/TS SDK as the single source of truth regarding evaluation, but offer a bundled Loli server and client SDKs for other languages.                                                                       |
 |           | OpenFeature adapters for other languages (Java, Go, Rust, C#, ...)                     | medium      | Possible OpenFeature adapters for the server <> client scenario (one row above).                                                                                                                                  |
-
-# 👾 Discord
-
-Feel free to join the Discord server: [https://discord.gg/njRQHRNu](https://discord.gg/njRQHRNu)
 
 # 🙆‍♂️ Author
 
