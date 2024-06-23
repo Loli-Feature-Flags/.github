@@ -82,6 +82,10 @@ infrastructure/tech stack. To build your own. With low costs. And low effort.
 |           | Loli server/docker image + simplified SDKs for other languages speaking to Loli Server | medium      | Keep the JS/TS SDK as the single source of truth regarding evaluation, but offer a bundled Loli server and client SDKs for other languages.                                                                       |
 |           | OpenFeature adapters for other languages (Java, Go, Rust, C#, ...)                     | medium      | Possible OpenFeature adapters for the server <> client scenario (one row above).                                                                                                                                  |
 
+# 👾 Discord
+
+Feel free to join the Discord server: [https://discord.gg/njRQHRNu](https://discord.gg/njRQHRNu)
+
 # 🙆‍♂️ Author
 
 Hey, I am Peter Kuhmann! 👋
