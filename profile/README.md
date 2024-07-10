@@ -65,21 +65,21 @@ infrastructure/tech stack. To build your own. With low costs. And low effort.
 
 # 🗺️ Roadmap
 
-| Milestone     | Project                                 | Status           | Description                                                                                                              |
-|---------------|-----------------------------------------|------------------|--------------------------------------------------------------------------------------------------------------------------|
-|               | JS/TS SDK                               | Building 🟡      | A library that defines the Loli Spec schema, validates it, and can evaluate feature flags.                               |
-|               | Management UI                           | Building 🟡      | A pluggable management UI that makes it easy to manage the Loli Spec and can be integrated into any website/web-app.     |
-| Alpha version |                                         | Working on it 🟡 | A state where Loli can be used in a JS/TS environment using your own storage for the Loli Spec. Requires tech expertise. |
-|               | Extensive documentation for developers  | Planned 📝       |                                                                                                                          |
-|               | Extensive documentation for non-techies | Planned 📝       |                                                                                                                          |
-|               | Tutorial videos for developers          | Planned 📝       |                                                                                                                          |
-|               | Tutorial videos for non-techies         | Planned 📝       |                                                                                                                          |
-| Beta version  |                                         | Planned 📝       | A state where Loli comes with docs and tutorial videos.                                                                  |
-|               | OpenFeature JS/TS Adapter               | Planned 📝       |                                                                                                                          |
-|               | Automated testing for management UI     | Planned 📝       |                                                                                                                          |
-|               | Website                                 | Planned 📝       |                                                                                                                          |
-|               | Community support (e.g. Discord Server) | Planned 📝       |                                                                                                                          |
-| Version 1     |                                         | Planned 📝       | A state where Loli looks like a real project, has full test coverage, and offers an OpenFeature adapter.                 |
+| Milestone     | Project                                 | Status         | Description                                                                                                              |
+|---------------|-----------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------|
+|               | JS/TS SDK                               | Done ✅         | A library that defines the Loli Spec schema, validates it, and can evaluate feature flags.                               |
+|               | Management UI                           | Done ✅         | A pluggable management UI that makes it easy to manage the Loli Spec and can be integrated into any website/web-app.     |
+| Alpha version |                                         | Released ✅     | A state where Loli can be used in a JS/TS environment using your own storage for the Loli Spec. Requires tech expertise. |
+|               | Extensive documentation for developers  | In progress 🟡 |                                                                                                                          |
+|               | Extensive documentation for non-techies | In progress 🟡 |                                                                                                                          |
+|               | Tutorial videos for developers          | In progress 🟡 |                                                                                                                          |
+|               | Tutorial videos for non-techies         | In progress 🟡 |                                                                                                                          |
+| Beta version  |                                         | In progress 🟡 | A state where Loli comes with docs and tutorial videos.                                                                  |
+|               | OpenFeature JS/TS Adapter               | Planned 📝     |                                                                                                                          |
+|               | Automated testing for management UI     | Planned 📝     |                                                                                                                          |
+|               | Website                                 | Planned 📝     |                                                                                                                          |
+|               | Community support (e.g. Discord Server) | Planned 📝     |                                                                                                                          |
+| Version 1     |                                         | Planned 📝     | A state where Loli looks like a real project, has full test coverage, and offers an OpenFeature adapter.                 |
 
 # 🔭 Future ideas
 
